@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/1a3d61fa-700c-420d-99b7-ad5ebe02e2eb)
 
 ## 프로젝트 소개
-이 프로젝트는 2D Platformer 게임입니다.
+이 프로젝트는 Unity에서 제공하는 무료 Asset Package를 사용하여 만든 2D Platformer 게임입니다.
 캐릭터를 조작하여 목표물까지 도달하는 게임으로, 총 4단계의 Level로 구성되어 있습니다.
 
 ## 사용한 툴
