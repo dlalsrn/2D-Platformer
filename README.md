@@ -24,7 +24,11 @@
 - **진행도 저장**: 플레이했던 레벨의 진행도 
 
 ## 스크린샷 및 게임 영상
-![Movie_002](https://github.com/user-attachments/assets/a8602805-ff42-479e-8be9-c8961a87021e)
+![image](https://github.com/user-attachments/assets/d7b40437-b41a-4d5b-b59d-16ea68e4e1ef)
+
+![image](https://github.com/user-attachments/assets/b80d48c6-4b44-4c59-9d07-fb2f7a323526)
+
+- **게임 영상 링크**: https://youtu.be/L0d_Gv3sTZ0
 
 ## 참고
 게임에 사용된 Sprite File은 저작권 문제 발생 우려가 있어 업로드에서 제외하였습니다.
