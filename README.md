@@ -25,3 +25,6 @@
 
 ## 스크린샷 및 게임 영상
 ![Movie_002](https://github.com/user-attachments/assets/a8602805-ff42-479e-8be9-c8961a87021e)
+
+## 참고
+게임에 사용된 Sprite File은 저작권 문제 발생 우려가 있어 업로드에서 제외하였습니다.
